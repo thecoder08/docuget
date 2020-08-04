@@ -1,0 +1,13 @@
+{
+  "name": "@thecoder08/docuget",
+  "version": "1.0.1",
+  "description": "A wrapper for document.querySelector() which makes it easy to select elements on the DOM.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thecoder08",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
+}
