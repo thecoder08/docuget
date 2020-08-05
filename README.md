@@ -10,7 +10,7 @@ to install Docuget.
 ## Require
 Require with this code:
 ```html
-<script src="node_modules/docuget/main.js"></script>
+<script src="node_modules/@thecoder08/docuget/main.js"></script>
 ```
 ## Syntax
 ```javascript
