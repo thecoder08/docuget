@@ -20,7 +20,7 @@ Where `query` is the CSS selector to select the element.
 Use `#elementID` to select an element by its ID.  
 Use `.elementClass` to select an element by its class.  
 Use `[attribute=value]` to select an element by the value one of its attributes has.  
-Use `element` to select and element by its type.  
+Use `element` to select an element by its type.  
 Returns: the first element that matches the query.
 ## Example
 Select an element by its ID and change its text.
@@ -33,5 +33,5 @@ document.getElementById('myElement').innerHTML = 'Hello World!';
 ```
 or:
 ```javascript
-document.querySelector('# myElement').innerHTML = 'Hello World!';
+document.querySelector('#myElement').innerHTML = 'Hello World!';
 ```
